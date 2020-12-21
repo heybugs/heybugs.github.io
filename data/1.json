@@ -1,0 +1,72 @@
+{
+  "weekData": {
+    "title": "week1",
+    "questionList": [
+      {
+        "questionName": "1.项目质量管理需要兼顾（）与（）两个方面",
+        "answerList": [
+          {
+            "id": 1001,
+            "answer": "A.项目管理与项目可交付成果"
+          },
+          {
+            "id": 1002,
+            "answer": "B.质量要求与质量标准"
+          }
+        ]
+      },
+      {
+        "questionName": "2.描述“一系列内在特性满足需求的程度”的是",
+        "answerList": [
+          {
+            "id": 1003,
+            "answer": "A.质量"
+          },
+          {
+            "id": 1004,
+            "answer": "B.等级"
+          }
+        ]
+      },
+      {
+        "questionName": "3.在连续的量表上表明结果所在的位置，表明合格的程度。这描述的是？",
+        "answerList": [
+          {
+            "id": 1005,
+            "answer": "A.变量抽样"
+          },
+          {
+            "id": 1006,
+            "answer": "B.属性抽样"
+          }
+        ]
+      },
+      {
+        "questionName": "4.管理质量的工作属于质量成本框架中的（）",
+        "answerList": [
+          {
+            "id": 1007,
+            "answer": "A.一致性工作"
+          },
+          {
+            "id": 1008,
+            "answer": "B.非一致性工作"
+          }
+        ]
+      },
+      {
+        "questionName": "5.管理质量被认为是（）的职责",
+        "answerList": [
+          {
+            "id": 1009,
+            "answer": "A.所有人的共同职责"
+          },
+          {
+            "id": 1010,
+            "answer": "B.项目管理团队的职责"
+          }
+        ]
+      }
+    ]
+  }
+}
